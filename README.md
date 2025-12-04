@@ -1,0 +1,2 @@
+# Social-Implications-of-Autonomous-Vehicles-on-Differently-Abled-Communities
+Autonomous vehicles can transform mobility for differently‑abled communities by enhancing independence, reducing social isolation, and improving access to healthcare, education, and jobs. This project explores accessibility challenges, AV design considerations, case studies, and policy recommendations for inclusive deployment.
